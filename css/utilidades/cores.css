@@ -31,18 +31,30 @@
     color: var(--cor-p5);
 }
 
+.cor-p6{
+    color: var(--cor-p6);
+}
+
 .cor-p1{
     color: var(--cor-p1);
 }
 
-.cor-p8{
+.cor-8{
     color: var(--cor-8);
-}
-
-.cor-5{
-    color: var(--cor-5);
 }
 
 .cor-1{
     color: var(--cor-1);
+}
+
+.cor-6{
+    color: var(--cor-6);
+}
+
+.cor-9{
+    color: var(--cor-9);
+}
+
+.cor-4{
+    color: var(--cor-4);
 }
