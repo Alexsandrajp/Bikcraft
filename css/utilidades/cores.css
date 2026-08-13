@@ -39,6 +39,15 @@
     color: var(--cor-p1);
 }
 
+.cor-10{
+    color: var(--cor-10);
+}
+
+.cor-11{
+    color: var(--cor-11);
+}
+
+
 .cor-8{
     color: var(--cor-8);
 }

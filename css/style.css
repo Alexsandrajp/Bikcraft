@@ -12,6 +12,8 @@
 
 @import "./global/footer.css";
 
+@import "./termos/termo.css";
+
 @import "./utilidades/componentes.css";
 
 @import "./bicicletas/bicicletas-lista.css";
