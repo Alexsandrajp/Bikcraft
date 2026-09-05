@@ -19,6 +19,8 @@
 @import "./utilidades/componentes.css";
 @import "./utilidades/formulario.css";
 
+@import "./orcamento/orcamento.css";
+
 @import "./bicicletas/bicicletas-lista.css";
 @import "./bicicletas/bicicletas.css";
 
